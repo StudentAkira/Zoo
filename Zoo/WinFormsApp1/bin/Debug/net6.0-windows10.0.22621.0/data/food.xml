@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев </LionName>
+      <ZebraName>Зебра </ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено :: </Bought>
+      <OnCost> На стоимость </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину </NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сделка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> Находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животина </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <Aviary>Вальер :: </Aviary>
+      <AviaryId>Id вальера :: </AviaryId>
+      <AviaryArea>Площадь вальера :: </AviaryArea>
+      <AviaryOccupitedArea>Занятая площадь вальера :: </AviaryOccupitedArea>
+      <AviaryAnimals>Животные вальера :: </AviaryAnimals>
+      <AnimalId>Id животины :: </AnimalId>
+      <AnimalName>Имя животины :: </AnimalName>
+      <AnimalAge>Возраст животины :: </AnimalAge>
+      <AnimalSatiety>Сытность животины :: </AnimalSatiety>
+      <Eaten> покушал </Eaten>
+      <AfterLongDay> после тяжелого дня </AfterLongDay>
+      <DiedOfHunger> совсем изголодался и отдал концы</DiedOfHunger>
+      <JustEaten> скушал </JustEaten>
+      <Oops> Упс :: </Oops>
+      <LooksVeryHappy> и выглядит очень довольным</LooksVeryHappy>
+      <DontWannaEat> не захотел кушать </DontWannaEat>
+      <StillHungry> все еще голоден </StillHungry>
+      <LionData>Лев :: </LionData>
+      <NeededArea>Неоьходимая площадь :: </NeededArea>
+      <AnimalsNames>
+        <string>Степашка</string>
+        <string>Дурашка</string>
+        <string>Пушок</string>
+        <string>Снежок</string>
+        <string>Сахар</string>
+        <string>Зефир</string>
+        <string>Олежка</string>
+      </AnimalsNames>
+      <AnimalPlay> красиво резвилась в вальере </AnimalPlay>
+      <Tips> чаевых</Tips>
+      <ZebraData>Зебра :: </ZebraData>
+      <NO_DATA>НЕТ ДАННЫХ</NO_DATA>
+      <INVALID_DATA>НЕВЕРНЫЕ ДАННЫЕ</INVALID_DATA>
+    </lmanager>
+    <id>0</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев </LionName>
+      <ZebraName>Зебра </ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено :: </Bought>
+      <OnCost> На стоимость </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину </NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сделка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> Находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животина </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <Aviary>Вальер :: </Aviary>
+      <AviaryId>Id вальера :: </AviaryId>
+      <AviaryArea>Площадь вальера :: </AviaryArea>
+      <AviaryOccupitedArea>Занятая площадь вальера :: </AviaryOccupitedArea>
+      <AviaryAnimals>Животные вальера :: </AviaryAnimals>
+      <AnimalId>Id животины :: </AnimalId>
+      <AnimalName>Имя животины :: </AnimalName>
+      <AnimalAge>Возраст животины :: </AnimalAge>
+      <AnimalSatiety>Сытность животины :: </AnimalSatiety>
+      <Eaten> покушал </Eaten>
+      <AfterLongDay> после тяжелого дня </AfterLongDay>
+      <DiedOfHunger> совсем изголодался и отдал концы</DiedOfHunger>
+      <JustEaten> скушал </JustEaten>
+      <Oops> Упс :: </Oops>
+      <LooksVeryHappy> и выглядит очень довольным</LooksVeryHappy>
+      <DontWannaEat> не захотел кушать </DontWannaEat>
+      <StillHungry> все еще голоден </StillHungry>
+      <LionData>Лев :: </LionData>
+      <NeededArea>Неоьходимая площадь :: </NeededArea>
+      <AnimalsNames>
+        <string>Степашка</string>
+        <string>Дурашка</string>
+        <string>Пушок</string>
+        <string>Снежок</string>
+        <string>Сахар</string>
+        <string>Зефир</string>
+        <string>Олежка</string>
+      </AnimalsNames>
+      <AnimalPlay> красиво резвилась в вальере </AnimalPlay>
+      <Tips> чаевых</Tips>
+      <ZebraData>Зебра :: </ZebraData>
+      <NO_DATA>НЕТ ДАННЫХ</NO_DATA>
+      <INVALID_DATA>НЕВЕРНЫЕ ДАННЫЕ</INVALID_DATA>
+    </lmanager>
+    <id>1</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев </LionName>
+      <ZebraName>Зебра </ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено :: </Bought>
+      <OnCost> На стоимость </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину </NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сделка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> Находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животина </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <Aviary>Вальер :: </Aviary>
+      <AviaryId>Id вальера :: </AviaryId>
+      <AviaryArea>Площадь вальера :: </AviaryArea>
+      <AviaryOccupitedArea>Занятая площадь вальера :: </AviaryOccupitedArea>
+      <AviaryAnimals>Животные вальера :: </AviaryAnimals>
+      <AnimalId>Id животины :: </AnimalId>
+      <AnimalName>Имя животины :: </AnimalName>
+      <AnimalAge>Возраст животины :: </AnimalAge>
+      <AnimalSatiety>Сытность животины :: </AnimalSatiety>
+      <Eaten> покушал </Eaten>
+      <AfterLongDay> после тяжелого дня </AfterLongDay>
+      <DiedOfHunger> совсем изголодался и отдал концы</DiedOfHunger>
+      <JustEaten> скушал </JustEaten>
+      <Oops> Упс :: </Oops>
+      <LooksVeryHappy> и выглядит очень довольным</LooksVeryHappy>
+      <DontWannaEat> не захотел кушать </DontWannaEat>
+      <StillHungry> все еще голоден </StillHungry>
+      <LionData>Лев :: </LionData>
+      <NeededArea>Неоьходимая площадь :: </NeededArea>
+      <AnimalsNames>
+        <string>Степашка</string>
+        <string>Дурашка</string>
+        <string>Пушок</string>
+        <string>Снежок</string>
+        <string>Сахар</string>
+        <string>Зефир</string>
+        <string>Олежка</string>
+      </AnimalsNames>
+      <AnimalPlay> красиво резвилась в вальере </AnimalPlay>
+      <Tips> чаевых</Tips>
+      <ZebraData>Зебра :: </ZebraData>
+      <NO_DATA>НЕТ ДАННЫХ</NO_DATA>
+      <INVALID_DATA>НЕВЕРНЫЕ ДАННЫЕ</INVALID_DATA>
+    </lmanager>
+    <id>2</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев </LionName>
+      <ZebraName>Зебра </ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено :: </Bought>
+      <OnCost> На стоимость </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину </NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сделка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> Находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животина </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <Aviary>Вальер :: </Aviary>
+      <AviaryId>Id вальера :: </AviaryId>
+      <AviaryArea>Площадь вальера :: </AviaryArea>
+      <AviaryOccupitedArea>Занятая площадь вальера :: </AviaryOccupitedArea>
+      <AviaryAnimals>Животные вальера :: </AviaryAnimals>
+      <AnimalId>Id животины :: </AnimalId>
+      <AnimalName>Имя животины :: </AnimalName>
+      <AnimalAge>Возраст животины :: </AnimalAge>
+      <AnimalSatiety>Сытность животины :: </AnimalSatiety>
+      <Eaten> покушал </Eaten>
+      <AfterLongDay> после тяжелого дня </AfterLongDay>
+      <DiedOfHunger> совсем изголодался и отдал концы</DiedOfHunger>
+      <JustEaten> скушал </JustEaten>
+      <Oops> Упс :: </Oops>
+      <LooksVeryHappy> и выглядит очень довольным</LooksVeryHappy>
+      <DontWannaEat> не захотел кушать </DontWannaEat>
+      <StillHungry> все еще голоден </StillHungry>
+      <LionData>Лев :: </LionData>
+      <NeededArea>Неоьходимая площадь :: </NeededArea>
+      <AnimalsNames>
+        <string>Степашка</string>
+        <string>Дурашка</string>
+        <string>Пушок</string>
+        <string>Снежок</string>
+        <string>Сахар</string>
+        <string>Зефир</string>
+        <string>Олежка</string>
+      </AnimalsNames>
+      <AnimalPlay> красиво резвилась в вальере </AnimalPlay>
+      <Tips> чаевых</Tips>
+      <ZebraData>Зебра :: </ZebraData>
+      <NO_DATA>НЕТ ДАННЫХ</NO_DATA>
+      <INVALID_DATA>НЕВЕРНЫЕ ДАННЫЕ</INVALID_DATA>
+    </lmanager>
+    <id>3</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев </LionName>
+      <ZebraName>Зебра </ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено :: </Bought>
+      <OnCost> На стоимость </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину </NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сделка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> Находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животина </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <Aviary>Вальер :: </Aviary>
+      <AviaryId>Id вальера :: </AviaryId>
+      <AviaryArea>Площадь вальера :: </AviaryArea>
+      <AviaryOccupitedArea>Занятая площадь вальера :: </AviaryOccupitedArea>
+      <AviaryAnimals>Животные вальера :: </AviaryAnimals>
+      <AnimalId>Id животины :: </AnimalId>
+      <AnimalName>Имя животины :: </AnimalName>
+      <AnimalAge>Возраст животины :: </AnimalAge>
+      <AnimalSatiety>Сытность животины :: </AnimalSatiety>
+      <Eaten> покушал </Eaten>
+      <AfterLongDay> после тяжелого дня </AfterLongDay>
+      <DiedOfHunger> совсем изголодался и отдал концы</DiedOfHunger>
+      <JustEaten> скушал </JustEaten>
+      <Oops> Упс :: </Oops>
+      <LooksVeryHappy> и выглядит очень довольным</LooksVeryHappy>
+      <DontWannaEat> не захотел кушать </DontWannaEat>
+      <StillHungry> все еще голоден </StillHungry>
+      <LionData>Лев :: </LionData>
+      <NeededArea>Неоьходимая площадь :: </NeededArea>
+      <AnimalsNames>
+        <string>Степашка</string>
+        <string>Дурашка</string>
+        <string>Пушок</string>
+        <string>Снежок</string>
+        <string>Сахар</string>
+        <string>Зефир</string>
+        <string>Олежка</string>
+      </AnimalsNames>
+      <AnimalPlay> красиво резвилась в вальере </AnimalPlay>
+      <Tips> чаевых</Tips>
+      <ZebraData>Зебра :: </ZebraData>
+      <NO_DATA>НЕТ ДАННЫХ</NO_DATA>
+      <INVALID_DATA>НЕВЕРНЫЕ ДАННЫЕ</INVALID_DATA>
+    </lmanager>
+    <id>4</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+</ArrayOfFood>

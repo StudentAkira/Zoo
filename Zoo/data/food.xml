@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>1</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Meat">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>3</id>
+    <type>Meat</type>
+    <price>40</price>
+    <efficiency>40</efficiency>
+  </Food>
+  <Food xsi:type="Meat">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>5</id>
+    <type>Meat</type>
+    <price>40</price>
+    <efficiency>40</efficiency>
+  </Food>
+  <Food xsi:type="Meat">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>6</id>
+    <type>Meat</type>
+    <price>40</price>
+    <efficiency>40</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>6</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>7</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+  <Food xsi:type="Grass">
+    <lmanager>
+      <LionName>Лев</LionName>
+      <ZebraName>Зебра</ZebraName>
+      <PassedDayPayment>
+Выручка за день :: </PassedDayPayment>
+      <Resources>Средства :: </Resources>
+      <NoMoneyWarning>Недостаточно средств</NoMoneyWarning>
+      <AviaryBought>Куплен вальер площадью :: </AviaryBought>
+      <Bought>Куплено </Bought>
+      <OnCost> на сумму </OnCost>
+      <NoPlaceToBuyAnimalWarning>Недостаточно места что бы разместить животину</NoPlaceToBuyAnimalWarning>
+      <DealAccepted>Сдулка состоялась :: </DealAccepted>
+      <WithName> с именем </WithName>
+      <LocatedInAviary> находится в вальере id :: </LocatedInAviary>
+      <ImpossibleToKillCornivore>Невозможно пустить на мясо хищника </ImpossibleToKillCornivore>
+      <Animal>Животное </Animal>
+      <SlaughterForMeat> пущено на мясо</SlaughterForMeat>
+      <Type>Тип :: </Type>
+      <Efficiency>Сытность :: </Efficiency>
+      <Food>Еда :: </Food>
+      <Id>Id :: </Id>
+      <INVALID_DATA>Неверные данные</INVALID_DATA>
+    </lmanager>
+    <id>8</id>
+    <type>Grass</type>
+    <price>20</price>
+    <efficiency>20</efficiency>
+  </Food>
+</ArrayOfFood>

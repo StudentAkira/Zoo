@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGXFi85Gkx6uijsh6Q+S030uJnsENPieE/neSX3Qpz2o/orhmdjmDbbHUJQtq5znBhd9LfypOcpQSNd7+rfH9g==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Zoo\\Zoo\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akira\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512",
+    "C:\\Users\\Akira\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

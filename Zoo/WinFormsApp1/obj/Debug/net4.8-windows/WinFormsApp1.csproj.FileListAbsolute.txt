@@ -1,0 +1,8 @@
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.Form1.resources
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.AssemblyInfo.cs
+D:\UNIVER\5сем\KPO\1\UnitTests\WinFormsApp1\obj\Debug\net4.8-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
